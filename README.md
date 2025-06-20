@@ -24,3 +24,8 @@ Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
 - Diseño original de la carta basado en el trabajo de *[CRISTIAN7712]* ([@CRISTIAN7712](https://github.com/CRISTIAN7712)).
 - Adaptado e implementado por mí con fines educativos y de práctica.
+
+<p align="center">
+  <img src="https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/Sin%20t%C3%ADtulo.jpeg?raw=true" alt="Carta Frente" width="300">
+  <img src="https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/cambio%20de%20imagen.jpeg?raw=true" alt="Carta Reverso" width="300">
+</p>
