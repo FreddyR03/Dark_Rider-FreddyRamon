@@ -7,7 +7,8 @@ Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 ## Vista Previa:
 ![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/Sin%20t%C3%ADtulo.jpeg?raw=true))
 ![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/cambio%20de%20imagen.jpeg?raw=true)
-## 🚀 Tecnologías usadas
+
+## 🛠️ Tecnologías usadas
 
 - HTML5
 - CSS (transiciones, transformaciones, perspectiva)
