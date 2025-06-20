@@ -5,8 +5,10 @@ Al colocar el puntero sobre ella, cambia su imagen para simular un efecto 3D.
 Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
 ## Vista Previa:
-![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/Sin%20t%C3%ADtulo.jpeg?raw=true)
-![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/cambio%20de%20imagen.jpeg?raw=true)
+<p align="center">
+  <img src="Sin título.jpeg" alt="Carta Frente" width="300">
+  <img src="cambio de imagen.jpeg" alt="Carta Reverso" width="300">
+</p>
 
 ## 🛠️ Tecnologías usadas
 
@@ -27,5 +29,5 @@ Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
 <p align="center">
   <img src="Sin título.jpeg" alt="Carta Frente" width="300">
-  <img src="https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/cambio%20de%20imagen.jpeg?raw=true" alt="Carta Reverso" width="300">
+  <img src="cambio de imagen.jpeg" alt="Carta Reverso" width="300">
 </p>
