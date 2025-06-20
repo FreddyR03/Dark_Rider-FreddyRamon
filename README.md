@@ -4,7 +4,7 @@ Este proyecto muestra una ficha de personaje interactiva, estilo carta coleccion
 Al colocar el puntero sobre ella, cambia su imagen para simular un efecto 3D. 
 Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
-## Vista Previa:
+## 📷 Vista Previa:
 <p align="center">
   <img src="Sin título.jpeg" alt="Carta Frente" width="300">
   <img src="cambio de imagen.jpeg" alt="Carta Reverso" width="300">
