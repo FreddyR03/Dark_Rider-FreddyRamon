@@ -18,5 +18,5 @@ Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
 ## 🖋️ Créditos
 
-- Diseño original de la carta basado en el trabajo de *[CRISTIAN7712]* ([@CRISTIAN7712]([https://github.com/usuario-github](https://github.com/CRISTIAN7712])).
+- Diseño original de la carta basado en el trabajo de *[CRISTIAN7712]* ([@CRISTIAN7712](https://github.com/CRISTIAN7712)).
 - Adaptado e implementado por mí con fines educativos y de práctica.
