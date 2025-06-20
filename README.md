@@ -6,7 +6,7 @@ Ideal para videojuegos, portfolios creativos o presentaciones interactivas.
 
 ## Vista Previa:
 ![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/Sin%20t%C3%ADtulo.jpeg?raw=true))
-![imagen]()
+![imagen](https://github.com/FreddyR03/Dark_Rider-FreddyRamon/blob/main/cambio%20de%20imagen.jpeg?raw=true)
 ## 🚀 Tecnologías usadas
 
 - HTML5
